@@ -1,0 +1,15 @@
+* Arch Linux
+** pacman / AUR / trizen
+*** Suche mit trizen
+      trizen -Ss paket
+*** Welche Pakete hängen von einem Paket ab?
+      pacman -Qi <paket> # normal
+      pacman -Sii <paket> # AUR
+** xmonad
+*** Wenn xmonad nicht will (startx wirft Fehler, dass libHSxmonad-... so nicht gefunden wird
+      xmonad --recompile
+* vim
+* tmux
+* dotnet
+** Wenns wegen terminfo nicht baut
+      TERM=xterm dotnet build
