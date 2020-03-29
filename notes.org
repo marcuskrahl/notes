@@ -5,6 +5,11 @@
 *** Welche Pakete hängen von einem Paket ab?
       pacman -Qi <paket> # normal
       pacman -Sii <paket> # AUR
+*** Aufräumen
+      pacman -Sc # package cache leeren
+      pacman -Scc # auch aktuelle Version (nur das package nichts
+      installiertes)
+      pacman -Rns $(pacman -Qtdq) #
 ** xmonad
 *** Wenn xmonad nicht will (startx wirft Fehler, dass libHSxmonad-... so nicht gefunden wird
       xmonad --recompile
