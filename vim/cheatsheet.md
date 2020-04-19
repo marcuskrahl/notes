@@ -1,5 +1,10 @@
 # Vim Key Bindings
 
+
+## Arithmetic
+|Key|Usage|
+|<C-a>|Increase next Number in line|
+
 ## Folds
 
 |Key|Usage|
