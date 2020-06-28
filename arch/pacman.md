@@ -7,6 +7,13 @@
 trizen -Ss paket
 ```
 
+## Listing packages
+
+```
+# explicitely installed packages
+pacman -Qe
+```
+
 ## Which packages depend on another packager?
 
 ```
