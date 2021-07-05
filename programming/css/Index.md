@@ -48,3 +48,21 @@
 - Children may be given dimensions using `const childFragment = await child.layoutNextFragment()` giving the child concrete dimensions. The dimensions may be restricted to an allowed area or even be set to fixed values.
 - The fragment of the child may then be positioned via `inlineOffset` and `blockOffset`
 - It seems to be necessary to layout children in the order in which they appear in the passed array. Otherwise layouting seems to not be possible. 
+
+
+## Content sizing
+
+### Width
+
+- `width: auto`: take as much horizontal space as possible
+- `width: max-content`: take as much space needed for the content which may overflow the parent container
+- `width: min-content`: take as much space needed for the largest element in the content, e.g. the largest word
+
+- `width: fit-content`: This is the same as `width: auto; min-width: min-content; max-width: max-content`. The content stays inside the box and shrinks if necessary. And takes at most content width horizontal space
+    - this does not work in flexbox or grid environments
+- `fit-content(200px)`: This may be used in the definition of grid templates. It is equal to `min(min(max-content, available-size), max(min-content, 200px))`
+    - take the available space or the space needed for its content whichever is smaller
+    - also take the space needed for a single content item, but at least 200px
+    - set the final width to whichever value is smaller 
+    - this allows grid elements to take a smaller space than available, e.g. to make room for other elements
+
