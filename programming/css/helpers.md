@@ -12,3 +12,11 @@
     hyphens: auto;
 }
 ```
+
+# Prevent 300ms delay on mobile
+
+```css
+a, button {
+    touch-action: manipulation;
+}
+```
