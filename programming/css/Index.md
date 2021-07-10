@@ -11,6 +11,11 @@
 - some of the definitions may be reused in other projects, e.g. shadow definitions
 - definitions may be grouped into components, e.g. brand button
 
+### [Taiga UI](https://taiga-ui.dev/)
+
+- Angular components
+- can be customized via variables and scss 
+
 ## Preprocessors
 
 - Sass
