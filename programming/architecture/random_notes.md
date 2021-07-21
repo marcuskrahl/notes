@@ -18,6 +18,11 @@ The following command will list files which change most frequently in a git proj
 ```
 git log --format=format: --name-only | egrep -v '^$' | sort | uniq -c | sort -rg | head -10
 ```
+It can also be used within a specific time frame
+```
+git log --format=format: --name-only --after='2020-01-01 00:00:00' | egrep -v '^$' | sort | uniq -c | sort -rg | head -10
+```
+
 
 ## Tools
 
