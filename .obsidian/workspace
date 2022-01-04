@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "bfe6dc1ec282d23a",
+    "type": "split",
+    "children": [
+      {
+        "id": "304cbc2407755824",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "programming/typescript/Nominal Typing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff4b25c13df35249",
+    "type": "split",
+    "children": [
+      {
+        "id": "a64bb8b2a1e070d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07db7db8c750d24e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "49d0f0111652534f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a90d78a6c613a32e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1060eb9e8c80c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f41722c0c2c6b10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming/typescript/Nominal Typing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "304cbc2407755824",
+  "lastOpenFiles": [
+    "programming/typescript/Nominal Typing.md",
+    "programming/typescript/unit-testing.md",
+    "programming/typescript/type-definition.md"
+  ]
+}
