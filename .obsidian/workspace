@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "28fefdbf8749bdab",
+    "type": "split",
+    "children": [
+      {
+        "id": "378282ebafe72bb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "programming/css/gradients.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5de3a1c4b2bb7db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "680a89a712053c50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532bbe6f49ee235c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3262ab4594a84fa5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecb4d277caa4c100",
+    "type": "split",
+    "children": [
+      {
+        "id": "736ad35036c6be42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25328944d0cdba08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming/css/gradients.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "378282ebafe72bb5",
+  "lastOpenFiles": [
+    "programming/css/gradients.md",
+    "programming/css/shadows.md",
+    "programming/css/quirks.md",
+    "programming/css/Index.md",
+    "programming/css/helpers.md",
+    "README.md",
+    "tools.md",
+    "arch/pacman.md",
+    "arch/xmonad.md"
+  ]
+}

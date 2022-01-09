@@ -27,3 +27,5 @@ box-shadow:
 - GPU accelerated instead of CPU bound
 - follows contour of HTML element
 
+## Source
+https://www.joshwcomeau.com/css/designing-shadows/
