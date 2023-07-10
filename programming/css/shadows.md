@@ -27,5 +27,13 @@ box-shadow:
 - GPU accelerated instead of CPU bound
 - follows contour of HTML element
 
+## Show shadow in same color as element
+
+`currentColor` is a keyword which is the same value as the specified `color` attribute
+ 
+```css
+box-shadow: 0 1px 2px color-mix(in srgb, transparent 35%, currentColor)
+```
+
 ## Source
 https://www.joshwcomeau.com/css/designing-shadows/
