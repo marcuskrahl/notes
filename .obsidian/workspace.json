@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "28fefdbf8749bdab",
+    "type": "split",
+    "children": [
+      {
+        "id": "400f4e008320cfe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378282ebafe72bb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/a11y/a11y checks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be65bbb374fb0e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/i18n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b302d7cdec7f549b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/angular/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4220a41cdbf1832c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/angular/Sandbox Facades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdcfdf96b9937724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/Error Messages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a648ebece09183c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/angular/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b1d023a0c4f4ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/html/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d94c08a526e05abd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/html/Semantic Elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d465e01b5aa0d0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/html/Semantic Elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e9a03bd9962c6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/Browser DevTools/Log Points.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ef7736aaf431d57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5de3a1c4b2bb7db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "680a89a712053c50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532bbe6f49ee235c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3262ab4594a84fa5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cee974b91d18df96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecb4d277caa4c100",
+    "type": "split",
+    "children": [
+      {
+        "id": "736ad35036c6be42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25328944d0cdba08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming/Browser DevTools/Log Points.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "9e9a03bd9962c6fb",
+  "lastOpenFiles": [
+    "Pasted image 20230703092304.png",
+    "programming/DevDocs.md",
+    "programming/Browser DevTools/Log Points.md",
+    "programming/Browser DevTools",
+    "programming/css/Scroll Bars.md",
+    "vim/Plugins.md",
+    "programming/typescript/Bundle Optimization.md",
+    "vim/cheatsheet.md",
+    "programming/projects/Cellular Automatons.md",
+    "programming/projects/Live Coding Music.md",
+    "programming/projects/Hacker School.md",
+    "programming/git/Exclude commits from git blame.md",
+    "programming/git",
+    "programming/conferences/Index.md",
+    "programming/projects",
+    "programming/css/color schemes.md",
+    "programming/conferences",
+    "programming/css/Index.md",
+    "programming/html/View Transitions.md",
+    "programming/angular/takeUntilDestroyed.md",
+    "programming/angular/index.md",
+    "programming/angular/Inputs.md",
+    "programming/angular/performance.md",
+    "programming/angular/Sandbox Facades.md",
+    "programming/angular/ngrx.md",
+    "self hosted/self-hosted.md",
+    "README.md",
+    "tools.md",
+    "self hosted",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled",
+    "programming/html/Special uses of elements.md",
+    "programming/html/Semantic Elements.md"
+  ]
+}

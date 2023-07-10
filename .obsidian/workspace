@@ -7,8 +7,12 @@
         "id": "378282ebafe72bb5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "programming/angular/state.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "programming/angular/state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "378282ebafe72bb5",
   "lastOpenFiles": [
+    "lenovo laptop/running windows and linux in vms.md",
+    "windows/Privacy Tools.md",
+    "Untitled.md",
     "programming/Untitled.md",
     "programming/i18n.md",
     "programming/design/icon libraries.md",
     "programming/a11y/a11y checks.md",
     "programming/css/aspect-ratio.md",
     "programming/design/Index.md",
-    "programming/css/is selector.md",
-    "programming/css/where selector.md",
-    "selector.md",
-    "programming/css/quirks.md"
+    "programming/css/is selector.md"
   ]
 }

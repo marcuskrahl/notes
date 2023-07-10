@@ -74,3 +74,30 @@ Same as non breaking whitespace but this one is being kept by angular
 ```
 
 
+## APP_INITIALIZER
+
+DI token to do something when the Angular app is initializing, e.g. before any Component is loaded. 
+This may also do async calls which block further initialization.
+May be used for loading a config file.
+
+```typescript
+function initializeAppFactory(httpClient: HttpClient): () => Observable<any> {
+ return () => httpClient.get("https://someUrl.com/api/user")
+   .pipe(
+      tap(user => { ... })
+   );
+}
+
+@NgModule({
+  imports: [BrowserModule, HttpClientModule],
+  declarations: [AppComponent],
+  bootstrap: [AppComponent],
+  providers: [{
+    provide: APP_INITIALIZER,
+    useFactory: initializeAppFactory,
+    deps: [HttpClient],
+    multi: true
+  }]
+})
+export class AppModule {}
+```

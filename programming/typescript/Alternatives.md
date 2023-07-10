@@ -1,0 +1,2 @@
+- [Ezno](https://kaleidawave.github.io/posts/introducing-ezno)
+- [Grain](https://grain-lang.org)

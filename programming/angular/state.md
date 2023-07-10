@@ -18,5 +18,10 @@
 
 ## Options
 
-- State management libraries, e.g. NgRX, Akita, ...
+- State management libraries
+	- Ngrx
+	- Ngxs
+	- Akita
+	- rx-angular 
+		- lightweight and heavily based on rxjs
 - "Homebrew" variant with RxJS and singleton services

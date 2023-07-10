@@ -4,6 +4,7 @@
 # Loading images
 
 Prevent long loading time, choose most appropriate format based on browser support, show placeholder
+- `loading=lazy` => Only load image when user scrolls to it
 
 ```html
 <style>
