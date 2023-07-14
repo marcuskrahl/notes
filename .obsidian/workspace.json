@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/css/shadows.md",
+                "file": "programming/typescript/unit-testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/css/shadows.md",
+                "file": "programming/typescript/unit-testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,6 +233,9 @@
   },
   "active": "9e9a03bd9962c6fb",
   "lastOpenFiles": [
+    "programming/architecture/Quality Requirements.md",
+    "programming/architecture/basics.md",
+    "programming/css/shadows.md",
     "programming/Browser DevTools/Log Points.md",
     "Pasted image 20230703092304.png",
     "programming/DevDocs.md",
@@ -264,8 +267,6 @@
     "self hosted",
     "Untitled 2",
     "Untitled 1",
-    "Untitled",
-    "programming/html/Special uses of elements.md",
-    "programming/html/Semantic Elements.md"
+    "Untitled"
   ]
 }

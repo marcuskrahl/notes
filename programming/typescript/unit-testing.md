@@ -37,3 +37,17 @@ describe('AuthorComponent', () => {
 ```
 
 Source: https://indepth.dev/posts/1240/create-your-angular-unit-test-spies-automagically 
+
+## SIFERS
+
+SIFERS (Simple Injectable Functions Explicitly Returning State) is a way to structure unit tests. Instead of `beforeEach` calls each test manually invokes a setup method.
+
+Source: https://medium.com/@kolodny/testing-with-sifers-c9d6bb5b362
+
+### Benefits
+
+- Better typing of variables
+- No need to define top level scope variables
+- Explicit passing of values -> when changing default behaviour
+- Allows proper nesting of setup code
+
